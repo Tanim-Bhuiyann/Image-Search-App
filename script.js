@@ -1,5 +1,5 @@
 
-
+// const accessKey = process.env.AccessKey;
 const accessKey = "LHpKnF8axSK3OQZzT5kAtOBqj8ZRIfqMBKH5eJY5UCU";
 
 async function fetchResults(searchInput, page) {
